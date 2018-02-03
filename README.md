@@ -1,4 +1,4 @@
-# select2 - `selectionTitleAttribute` option
+# select2 - 'selectionTitleAttribute' option
 Extends Select2 v4 plugin by adding an option to disable the title attribute from the selected elements.
 
 
